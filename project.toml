@@ -3,9 +3,3 @@ schema-version = "0.2"
 
 [com.heroku.buildpacks.deb-packages]
 install = ["zstd"]
-```
-
-`requirements.txt` (or `environment.yml` if you use conda)
-```
-ollama
-# your other dependencies
